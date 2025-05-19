@@ -1,0 +1,7 @@
+*.png
+*.pdf
+*.pyc
+*.root
+*.php
+PlayGround
+saved_models
